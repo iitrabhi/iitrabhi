@@ -10,6 +10,3 @@
 <a href="https://github.com/iitrabhi/meshx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iitrabhi&repo=meshx&theme=buefy" />
 </a>
-
-<br />
-<br />
