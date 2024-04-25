@@ -9,6 +9,9 @@ Participating in GSoC opened my eyes to the power of open-source computing. Sinc
 <br>
 Driven by my interest in interactive teaching, I founded <a href="https://eigenplus.com/">eigenplus.com</a>, aiming to make students fall in love with mechanics by building better interactive experiences.
 
+## My Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=iitrabhi&theme=tokyonight)](https://git.io/streak-stats)
+
 ## Find me around the web 🌎: 
 - Learning in public on <a href="https://www.abhigupta.io">abhigupta.io</a> 
 - Interactive teaching on <a href="https://eigenplus.com"> eigenplus.com</a> 
